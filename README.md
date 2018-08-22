@@ -1,4 +1,4 @@
-# Mechanic Calendar
+# Calendar Program
 
 By Joe Fiume  
 [jfiume.github.io](http://https://github.com/jfiume)
